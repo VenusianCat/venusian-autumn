@@ -1,0 +1,21 @@
+{
+  "name": "venusian-autumn",
+  "displayName": "Venusian Autumn",
+  "description": "An dark, autumnal VS Code theme",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Venusian Autumn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Venusian Autumn-color-theme.json"
+      }
+    ]
+  }
+}
